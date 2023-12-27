@@ -14,7 +14,7 @@ googleAnalytics = "UA-123-45"
 disqusShortname = "ink-demo"
 
 [params]
-	subtitle = "A personal board for telling stories."
+	subtitle = "An amateur wordsmith."
 
 	# Optional 64x64 avatar image.
 	avatar = "https://i.imgur.com/I7NQzOU.png"
