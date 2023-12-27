@@ -1,5 +1,5 @@
 ---
-title: "From Melody to Metaphor - Sigur Rós' Ekki Múkk Unveiled"
+title: "From Melody to Metaphor, Sigur Rós' Ekki Múkk Unveiled"
 date: 2023-11-18T02:01:58+05:30
 description: "Sigur Rós’ “Ekki múkk” is more than just a music video; it’s a work of art that challenges conventional storytelling methods."
 tags: [music]
