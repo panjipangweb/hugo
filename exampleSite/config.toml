@@ -4,7 +4,7 @@ title = "Panji"
 theme = "ink"
 paginate = 5
 
-copyright = "© Copyright"
+copyright = "Made with Love in Surakarta, ID"
 
 pygmentsstyle = "vs"
 pygmentscodefences = true
