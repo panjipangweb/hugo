@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Ink"
+title = "Panji"
 theme = "ink"
 paginate = 5
 
@@ -14,10 +14,10 @@ googleAnalytics = "UA-123-45"
 disqusShortname = "ink-demo"
 
 [params]
-	subtitle = "Crisp, minimal personal [blog theme for Hugo](https://github.com/knadh/hugo-ink)"
+	subtitle = "A personal board for telling stories."
 
 	# Optional 64x64 avatar image.
-	avatar = "https://image.freepik.com/free-vector/young-man-head-with-beard-avatar-character_24877-36786.jpg"
+	avatar = "https://i.imgur.com/I7NQzOU.png"
 
 	# Content types to disable Disqus on.
 	disableDisqusTypes = ["page"]
@@ -53,7 +53,7 @@ weight = 4
 [[params.social]]
 name = "Github"
 icon = "github"
-url = "https://github.com/knadh/hugo-ink"
+url = "https://github.com/teskleja"
 
 [[params.social]]
 name = "RSS"
