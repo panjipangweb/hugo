@@ -4,7 +4,7 @@ title = "Panji"
 theme = "ink"
 paginate = 5
 
-copyright = "© Copyright notice"
+copyright = "© Copyright"
 
 pygmentsstyle = "vs"
 pygmentscodefences = true
