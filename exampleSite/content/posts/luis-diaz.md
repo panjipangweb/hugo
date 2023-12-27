@@ -1,5 +1,5 @@
 ---
-title: "A Deep Dive into the Luis Diaz VAR Controversy"
+title: "Deep Dive into the Luis Diaz VAR Controversy"
 date: 2023-12-12T02:01:58+05:30
 description: "The Luis Diaz VAR controversy reminds us that football, with all its excitement and unpredictability, is still controlled by people who can make mistakes."
 tags: [football]
