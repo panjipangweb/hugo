@@ -1,5 +1,5 @@
 ---
-title: "Tahun Baru, Apa yang Beda Dari yang Lalu?"
+title: "Tahun Baru, Apa yang Beda Dari Lalu?"
 date: 2024-01-01T02:01:58+05:30
 description: "Celoteh riuh setelah perayaan pergantian tahun."
 tags: [celoteh]
