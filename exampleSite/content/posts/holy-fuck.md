@@ -1,5 +1,5 @@
 ---
-title: "Holy..Fuck"
+title: "Holy..F*ck"
 date: 2024-09-13T13:05:58+05:30
 description: "I stand a king, of sorrow born."
 tags: [bualan]
