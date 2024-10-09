@@ -6,26 +6,31 @@ tags: [bualan]
 ---
 You left me here, a withered tree,
 Barren limbs that used to be.
+
 Once, you were my roots, my rain,
 Now only drought, only pain.
 
 In twilight's grasp, I stand alone,
 A kingdom lost, a shattered throne.
+
 Your promises, like brittle glass,
 Shattered echoes from the past.
 
 I built my walls, you wore them thin,
 Tore them down, let darkness in.
+
 Tortured whispers fill the air,
 My heart's a grave, you buried there.
 
 A mariner adrift in your sea,
 No stars, no winds to carry me.
+
 I gave you all, each breath, each part,
 Now drown in the depths of a broken heart.
 
 Like distant bells, your silence rings,
 The hollow sound of forgotten things.
+
 You forged my chains, left me bound,
 In love's dark dungeon, I am crowned.
 
